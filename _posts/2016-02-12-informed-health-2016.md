@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: An annual health technology innovation conference hosted by the University of California San Francisco
-datePublished: '2016-02-13T04:54:54.938Z'
-dateModified: '2016-02-13T04:54:49.481Z'
+datePublished: '2016-02-14T06:46:26.259Z'
+dateModified: '2016-02-14T06:46:15.200Z'
 title: Informed Health 2016
 author: []
 sourcePath: _posts/2016-02-12-informed-health-2016.md
