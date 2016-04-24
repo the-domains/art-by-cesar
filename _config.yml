@@ -1,8 +1,7 @@
+name: Art by Cesar
+favicon: null
 layout_spectrum: 0.9918546
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.30022
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.839599
-  brandStrength: 0.5
-  lightness: 1
   brandColors:
     - '#ffffff'
     - '#090909'
     - '#7b7f82'
     - '#494a4c'
     - '#2994ca'
-  rhythmicContrast: 0.09085213
-typography_spectrum: 0.30022
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Art by Cesar
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
