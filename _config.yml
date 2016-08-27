@@ -1,7 +1,18 @@
+layout_spectrum: 0.4537910029757768
+typography_spectrum: 0.7974498148541898
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.9603731464594603
+  lightness: 0.7432160007301718
+  saturation: 0.33761554257944226
+  rhythmicContrast: 0.14523977087810636
 name: Art by Cesar
 favicon: null
-layout_spectrum: 0.45541
-typography_spectrum: 0.30022
 collections:
   - index:
       path: /
@@ -26,15 +37,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#090909'
-    - '#7b7f82'
-    - '#494a4c'
-    - '#2994ca'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
 purpose: []
